@@ -4,4 +4,4 @@ This is a python script which automates fishing by searching for the hook on scr
 
 # Usage
 Run the main script fishing.py
-Default toggle key is 'num 0' but this can be changed in the script
+(default toggle key is 'num 0' but this can be changed in the script)
